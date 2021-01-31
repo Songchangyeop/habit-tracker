@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/habit-tracker/static/css/main.ce91239b.chunk.css",
+    "main.js": "/habit-tracker/static/js/main.11b912d7.chunk.js",
+    "main.js.map": "/habit-tracker/static/js/main.11b912d7.chunk.js.map",
+    "runtime-main.js": "/habit-tracker/static/js/runtime-main.4c1fe18b.js",
+    "runtime-main.js.map": "/habit-tracker/static/js/runtime-main.4c1fe18b.js.map",
+    "static/js/2.e34ef89e.chunk.js": "/habit-tracker/static/js/2.e34ef89e.chunk.js",
+    "static/js/2.e34ef89e.chunk.js.map": "/habit-tracker/static/js/2.e34ef89e.chunk.js.map",
+    "index.html": "/habit-tracker/index.html",
+    "static/css/main.ce91239b.chunk.css.map": "/habit-tracker/static/css/main.ce91239b.chunk.css.map",
+    "static/js/2.e34ef89e.chunk.js.LICENSE.txt": "/habit-tracker/static/js/2.e34ef89e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c1fe18b.js",
+    "static/js/2.e34ef89e.chunk.js",
+    "static/css/main.ce91239b.chunk.css",
+    "static/js/main.11b912d7.chunk.js"
+  ]
+}
